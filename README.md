@@ -1,4 +1,4 @@
-# Equity-Options-Pricing-Forecasting-Analysis-Bank-of-America
+# Equity Options Pricing Forecasting Analysis(BAC)
 
 For my MATH 4051 (Computational Exploration & Data Generation) course, I used the following methodologies to predict the future option price:
 
