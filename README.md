@@ -1,6 +1,7 @@
 # Equity-Options-Pricing-Forecasting-Analysis-Bank-of-America
 
 For my MATH 4051 (Computational Exploration & Data Generation) course, I used the following methodologies to predict the future option price:
+
 **Methodology**
 
 - Analyzed 52 years of historical price and volume data for BAC using Excel (Yahoo Finance)
